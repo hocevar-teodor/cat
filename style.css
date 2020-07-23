@@ -1,3 +1,8 @@
 h1 {
     background-color: aliceblue;
 }
+
+p {
+    text-transform: uppercase;
+    background-color: rgba(100, 20, 140, 0.5);
+}
