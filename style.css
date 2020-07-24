@@ -1,3 +1,12 @@
+body {
+    background: linear-gradient(to right, rgb(230, 178, 65), rgb(255, 0, 0));
+}
+
 h1 {
     background-color: aliceblue;
+}
+
+p {
+    text-transform: uppercase;
+    background-color: rgba(100, 20, 140, 0.5);
 }
